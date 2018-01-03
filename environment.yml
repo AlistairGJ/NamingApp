@@ -4,3 +4,5 @@ dependencies:
   - appmode
   - pyperclip
   - pandas
+  - gtk
+  - PyQt4

@@ -3,4 +3,4 @@ channels:
 dependencies:
   - appmode
   - pyperclip
-  - pyqt
+  - pygtk
